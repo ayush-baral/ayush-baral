@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-baral&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-baral" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-baral&show_icons=true&locale=en&layout=compact&d=1" alt="ayush-baral" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-baral&show_icons=true&locale=en&layout=compact" alt="ayush-baral" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-baral&show_icons=true&locale=en" alt="ayush-baral" /></p>
 
